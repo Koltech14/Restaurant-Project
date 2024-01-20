@@ -1,0 +1,72 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+/* .first{
+    width: 1024px;
+    height: 118px;
+    background-color: blue;
+} */
+
+.second{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.293);
+}
+
+/* .third{
+    width: 1024px;
+    height: 400px;
+    background-color: green;
+} */
+
+.fourth{
+    width: 1024px;
+    height: 500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.fifth{
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.301);
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+}
+
+nav{
+    padding-top: 10px;
+}
+
+.hr{
+    width: 70px;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: white;
+}
+
+.third h1{
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-size: 70px;
+    color: white;
+    padding-top: 90px;
+}
+
+.third p{
+    color: white;
+    width: 650px;
+}
+
+.third a{
+    color: white;
+}
+
+.fifth{
+    color: bisque;
+    padding-top: 3px;
+}
